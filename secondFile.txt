@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
@@ -8,3 +9,9 @@ Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
+=======
+hi 
+there
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+>>>>>>> 495e8e3a92e6956b5ee2d3edb2ff791d911ed750
