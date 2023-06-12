@@ -6,5 +6,5 @@ Merge branch 'git_1' into git_2
 Merge branch 'git_1' into git_2
 Merge branch 'git_1' into git_2
 Merge branch 'git_1' into git_2
-Merge branch 'git_1' into git_2
-Merge branch 'git_1' into git_2
+Changed 2 lines in secondFile.txt in git_2
+Changed 2 lines in secondFile.txt in git_2
