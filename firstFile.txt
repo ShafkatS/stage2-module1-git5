@@ -1,2 +1,11 @@
-point 7
-ponit 8
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+
