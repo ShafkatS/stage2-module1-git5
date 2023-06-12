@@ -1,0 +1,10 @@
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
+Merge branch 'git_1' into git_2
